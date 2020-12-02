@@ -1,6 +1,6 @@
 # Slide-code
 Simple button and slide code
-
+<head>
 <style>
 .tabs{
     font-size: 20px;
@@ -25,6 +25,7 @@ Simple button and slide code
   "title . . . .";
 }
 </style>
+</head>
 
 <html>
 <nav class="nav">
